@@ -64,7 +64,7 @@ CodeAlpha_HotelReservationSystem/
 
 ## 📽️ Demo Video
 
-🎥 [Watch the Explanation Video](https://www.loom.com/share/fef100a41a8b441f9fbed75095781590?sid=d2608519-8ae2-4d59-8fb7-da8f7b71f4ae)  
+🎥 [Watch the Explanation Video](#) 
 🗂️ [View this project on LinkedIn](#)
 
 ---
